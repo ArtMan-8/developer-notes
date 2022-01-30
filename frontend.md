@@ -1,6 +1,6 @@
 # Frontend
 
-**[на главную](../README.md)**
+**[на главную](./README.md)**
 
 <hr />
 
