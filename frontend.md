@@ -18,7 +18,7 @@
 
 ### Ресурсы, с большим количеством материала
 
-[Фронтенд — это не больно!] (https://bespoyasov.ru/front-not-pain/#preface)
+[Фронтенд — это не больно!](https://bespoyasov.ru/front-not-pain/#preface)
 
 [Web Fundamentals](https://developers.google.com/web/fundamentals)
 
