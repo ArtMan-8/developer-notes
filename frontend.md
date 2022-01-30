@@ -1,11 +1,33 @@
 # Frontend
 
+[Flexbox - полный справочник](https://medium.com/@stasonmars/%D0%B2%D0%B5%CC%88%D1%80%D1%81%D1%82%D0%BA%D0%B0-%D0%BD%D0%B0-flexbox-%D0%B2-css-%D0%BF%D0%BE%D0%BB%D0%BD%D1%8B%D0%B8%CC%86-%D1%81%D0%BF%D1%80%D0%B0%D0%B2%D0%BE%D1%87%D0%BD%D0%B8%D0%BA-e26662cf87e0)
+
+[Grid - полный справочник](https://medium.com/@stasonmars/%D0%B2%D0%B5%CC%88%D1%80%D1%81%D1%82%D0%BA%D0%B0-%D0%BD%D0%B0-grid-%D0%B2-css-%D0%BF%D0%BE%D0%BB%D0%BD%D0%BE%D0%B5-%D1%80%D1%83%D0%BA%D0%BE%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%BE-%D0%B8-%D1%81%D0%BF%D1%80%D0%B0%D0%B2%D0%BE%D1%87%D0%BD%D0%B8%D0%BA-220508316f8b)
+
 [React -5 Advanced React Patterns](https://javascript.plainenglish.io/5-advanced-react-patterns-a6b7624267a6)
 
 [React - How to fetch data with React Hooks](https://www.robinwieruch.de/react-hooks-fetch-data/)
 
-[TypeScript Deep Dive](https://basarat.gitbook.io/typescript/)
+[Grid-Powered Resume](https://css-tricks.com/new-year-new-job-lets-make-a-grid-powered-resume/)
+
+[Принципы работы современных веб-браузеров](https://www.html5rocks.com/ru/tutorials/internals/howbrowserswork/)
+
+[Как работают браузеры](https://developer.mozilla.org/ru/docs/Web/Performance/How_browsers_work)
+
+<hr />
+
+### Ресурсы, с большим количеством материала
+
+[Фронтенд — это не больно!] (https://bespoyasov.ru/front-not-pain/#preface)
+
+[Web Fundamentals](https://developers.google.com/web/fundamentals)
 
 [Веблайнд — рекомендации по разработке сайтов для людей с нарушениями зрения](https://weblind.ru/)
 
-[Grid-Powered Resume](https://css-tricks.com/new-year-new-job-lets-make-a-grid-powered-resume/)
+[Много материалов по Реакт](https://github.com/harryheman/React-Total)
+
+[Smashing Magazine](https://www.smashingmagazine.com/)
+
+[CSS-Tricks](https://css-tricks.com/)
+
+[Alistapart](https://alistapart.com/)
