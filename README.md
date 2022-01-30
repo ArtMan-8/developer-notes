@@ -1,4 +1,4 @@
-# developer-notes
+# Developer notes
 
 [Frontend материалы](./frontend.md)
 
