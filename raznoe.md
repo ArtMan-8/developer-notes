@@ -4,6 +4,8 @@
 
 <hr />
 
+[Подборка тестовых заданий для прокачки](https://github.com/Hexlet/ru-test-assignments)
+
 ### Инструменты
 [Can I use - проверка поддержки в браузерах html/css/js](https://caniuse.com/)
 
