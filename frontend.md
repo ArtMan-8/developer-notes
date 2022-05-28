@@ -14,11 +14,17 @@
 
 [React - How to fetch data with React Hooks](https://www.robinwieruch.de/react-hooks-fetch-data/)
 
+[React - Fiber - алгоритм согласования](https://habr.com/ru/post/662549/)
+
 [Grid-Powered Resume](https://css-tricks.com/new-year-new-job-lets-make-a-grid-powered-resume/)
 
 [Принципы работы современных веб-браузеров](https://www.html5rocks.com/ru/tutorials/internals/howbrowserswork/)
 
 [Как работают браузеры](https://developer.mozilla.org/ru/docs/Web/Performance/How_browsers_work)
+
+[Webpack Module Federation: решение в микрофронтендах](https://habr.com/ru/company/alfa/blog/668118/)
+
+[Мой опыт с Webpack Module Federation](https://habr.com/ru/post/650401/)
 
 <hr />
 
