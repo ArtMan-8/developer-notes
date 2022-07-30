@@ -10,21 +10,31 @@
 
 [Event Loop in browser](https://towardsdev.com/event-loop-in-javascript-672c07618dc9)
 
+[Grid-Powered Resume](https://css-tricks.com/new-year-new-job-lets-make-a-grid-powered-resume/)
+
 [React -5 Advanced React Patterns](https://javascript.plainenglish.io/5-advanced-react-patterns-a6b7624267a6)
 
 [React - How to fetch data with React Hooks](https://www.robinwieruch.de/react-hooks-fetch-data/)
 
-[React - Fiber - алгоритм согласования](https://habr.com/ru/post/662549/)
+[React - Fiber: алгоритм согласования](https://habr.com/ru/post/662549/)
 
-[Grid-Powered Resume](https://css-tricks.com/new-year-new-job-lets-make-a-grid-powered-resume/)
+[MobX - Полная реактивность: объяснение работы ](https://medium.com/breadhead-stories/%D0%BF%D0%BE%D0%BB%D0%BD%D0%B0%D1%8F-%D1%80%D0%B5%D0%B0%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D1%81%D1%82%D1%8C-%D0%BF%D0%BE%D0%B4%D1%80%D0%BE%D0%B1%D0%BD%D0%BE%D0%B5-%D0%BE%D0%B1%D1%8A%D1%8F%D1%81%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B-mobx-9a47f6d4cab2)
 
-[Принципы работы современных веб-браузеров](https://www.html5rocks.com/ru/tutorials/internals/howbrowserswork/)
+[Почему мы выбрали MobX, а не Redux, и как его использовать эффективнее](https://habr.com/ru/company/vk/blog/522312/)
 
-[Как работают браузеры](https://developer.mozilla.org/ru/docs/Web/Performance/How_browsers_work)
+[MobX - управление состоянием веб-приложений. Лекция в Яндексе](https://habr.com/ru/company/yandex/blog/339054/)
+
+[Как работают браузеры - ч1](https://habr.com/ru/company/kts/blog/669784/)
+
+[Как работают браузеры - ч2](https://habr.com/ru/company/kts/blog/678034/)
 
 [Webpack Module Federation: решение в микрофронтендах](https://habr.com/ru/company/alfa/blog/668118/)
 
 [Мой опыт с Webpack Module Federation](https://habr.com/ru/post/650401/)
+
+[React SDK for building modern, accessible and cross-platforms interfaces](https://github.com/use-platform/use-platform)
+
+[Yandex UI Kit build on React and bem-react](https://github.com/bem/yandex-ui)
 
 <hr />
 
