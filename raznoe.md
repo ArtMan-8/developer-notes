@@ -7,6 +7,7 @@
 [Подборка тестовых заданий для прокачки](https://github.com/Hexlet/ru-test-assignments)
 
 ### Онлайн Инструменты
+
 [Can I use - проверка поддержки в браузерах html/css/js](https://caniuse.com/)
 
 [Can Include - проверка правильности вложения тегов html](https://caninclude.glitch.me/)
@@ -23,7 +24,19 @@
 
 <hr />
 
+### Инструменты
+
+[Minimal JavaScript architecture diagrams and dependency graphs](https://github.com/dyatko/arkit)
+
+[Generate UML-diagrams from markdown](https://plantuml.com/ru/)
+
+[Generation UML-diagrams and flowchart from markdown](https://github.com/mermaid-js/mermaid#readme)
+
 ### Общее
+
+[Соглашение о коммитах](https://www.conventionalcommits.org/ru/)
+
+[Семантическое Версионирование](https://semver.org/lang/ru/)
 
 [Git - удачная модель ветвления](https://habr.com/ru/post/106912/)
 
@@ -36,3 +49,5 @@
 [SOLID доступно](https://ota-solid.vercel.app/)
 
 [The C4 model for visualising software architecture](https://c4model.com/)
+
+[Как описать большую систему в нотации С4](https://habr.com/ru/company/nspk/blog/679426/)
