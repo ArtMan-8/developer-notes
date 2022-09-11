@@ -8,9 +8,9 @@
 
 [Grid - полный справочник](https://medium.com/@stasonmars/%D0%B2%D0%B5%CC%88%D1%80%D1%81%D1%82%D0%BA%D0%B0-%D0%BD%D0%B0-grid-%D0%B2-css-%D0%BF%D0%BE%D0%BB%D0%BD%D0%BE%D0%B5-%D1%80%D1%83%D0%BA%D0%BE%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%BE-%D0%B8-%D1%81%D0%BF%D1%80%D0%B0%D0%B2%D0%BE%D1%87%D0%BD%D0%B8%D0%BA-220508316f8b)
 
-[Event Loop in browser](https://towardsdev.com/event-loop-in-javascript-672c07618dc9)
-
 [Grid-Powered Resume](https://css-tricks.com/new-year-new-job-lets-make-a-grid-powered-resume/)
+
+[Разбор базовых концепций JavaScript: Event Loop, Hoisting, Scope, Engine, Prototype, Generators, Promise](https://dev.to/lydiahallie/series/3341)
 
 [React -5 Advanced React Patterns](https://javascript.plainenglish.io/5-advanced-react-patterns-a6b7624267a6)
 
@@ -28,6 +28,10 @@
 
 [Как работают браузеры - ч2](https://habr.com/ru/company/kts/blog/678034/)
 
+[Оптимизация производительности фронтенда - Critical Render Path](https://habr.com/ru/company/hh/blog/513940/)
+
+[Оптимизация производительности фронтенда - Event loop, layout, paint, composite](https://habr.com/ru/post/517594/)
+
 [Webpack Module Federation: решение в микрофронтендах](https://habr.com/ru/company/alfa/blog/668118/)
 
 [Мой опыт с Webpack Module Federation](https://habr.com/ru/post/650401/)
@@ -36,9 +40,19 @@
 
 [Yandex UI Kit build on React and bem-react](https://github.com/bem/yandex-ui)
 
+[CORS Visualized](https://dev.to/lydiahallie/cs-visualized-cors-5b8h)
+
+[CORS для чайников: история возникновения, как устроен и оптимальные методы работы](https://habr.com/ru/company/macloud/blog/553826/)
+
 <hr />
 
 ### Ресурсы, с большим количеством материала
+
+[Бесплатная книга с шаблонами проектирования и шаблонами компонентов, для создания сильных веб-приложений с помощью ванильного JavaScript и React](https://www.patterns.dev/)
+
+[Паттерны JavaScript и React](https://javascriptpatterns.vercel.app/patterns)
+
+[Подготовка к интервью. Практика решения frontend задачек](https://bigfrontend.dev/)
 
 [Фронтенд — это не больно!](https://bespoyasov.ru/front-not-pain/#preface)
 
