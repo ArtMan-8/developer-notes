@@ -28,6 +28,8 @@
 
 [Как работают браузеры - ч2](https://habr.com/ru/company/kts/blog/678034/)
 
+[Полное понимание асинхронности в браузере](https://habr.com/ru/company/yandex/blog/718084/)
+
 [Оптимизация производительности фронтенда - Critical Render Path](https://habr.com/ru/company/hh/blog/513940/)
 
 [Оптимизация производительности фронтенда - Event loop, layout, paint, composite](https://habr.com/ru/post/517594/)
