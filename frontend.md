@@ -38,9 +38,7 @@
 
 [Мой опыт с Webpack Module Federation](https://habr.com/ru/post/650401/)
 
-[React SDK for building modern, accessible and cross-platforms interfaces](https://github.com/use-platform/use-platform)
-
-[Yandex UI Kit build on React and bem-react](https://github.com/bem/yandex-ui)
+[A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences](https://github.com/adobe/react-spectrum)
 
 [CORS Visualized](https://dev.to/lydiahallie/cs-visualized-cors-5b8h)
 
